@@ -1,11 +1,16 @@
 _repo: The-Pilgrim-Fathers-of-New-England-a-history_72018
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 72018-h/images/cover.jpg
 creator:
   author:
     agent_name: Martyn, W. Carlos
     gutenberg_agent_id: '56502'
     url: http://www.gutenberg.org/2009/agents/56502
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/72018#The-Pilgrim-Fathers-of-New-England-a-history
 gutenberg_issued: '2023-11-04'
 identifiers:
   gutenberg: '72018'
